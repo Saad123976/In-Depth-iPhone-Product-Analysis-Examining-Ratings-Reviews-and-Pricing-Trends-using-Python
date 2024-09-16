@@ -11,7 +11,9 @@ The analysis was performed using Python with the Pandas library for data manipul
 **Data Loading and Preliminary Checks:**
 
 Data was loaded from a CSV file using pandas.read_csv.
+
 Initial checks were performed to identify missing values with data.isnull().sum().
+
 Descriptive statistics were generated using data.describe() to understand the dataset's distribution.
 
 **Visualization 1: Number of Ratings for Top 10 Highest-Rated Products:**
